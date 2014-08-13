@@ -1,7 +1,9 @@
 NYCompost
 =========
 
-New York City expects to extend the pilot household composting program to the entire city by 2016. It will be critical to provide accurate and up-to-date information on the location and collection points of organic waste.
+New York City expects to extend the voluntary pilot household composting program to the entire city by 2016. It will be critical to provide accurate and up-to-date information on the location and collection points of organic waste. Even more important will be the development of the tools and methods to monitor the health of organic compost.
+
+*Phase 1*
 
 The first step in this project is to map the compost collection and drop-off locations within the city. 
 
