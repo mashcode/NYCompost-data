@@ -13,13 +13,21 @@ Development links:
 
 Compost
 
-  <a href="http://www.soilfoodweb.com/">Elaine Ingham</a>
+  <a href="http://www.soilfoodweb.com/">Dr. Elaine Ingham</a>
 
   http://en.permaculturescience.org/english-pages/3-earth-care/soil/d-pioneers/elaine-ingham#TOC-Beneficial-Fungi-found-in-Compost
 
-Data Scaping
+Data & Scaping
+  
+  Socrata (NYCOpendata)
 
   https://data.cityofnewyork.us/Environment/Food-Scrap-Drop-Off-Sites/rmmq-46n5
+
+  LORP
+
+  http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+
+  ScraperWiki
 
   https://scraperwiki.com/docs/developer/
 
