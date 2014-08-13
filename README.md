@@ -10,13 +10,19 @@ In parallel, we intend to prototype an inexpensive and portable temperature sens
 Development links:
 
 Compost
-<a href="http://www.soilfoodweb.com/">Elaine Ingham</a>
+
+  <a href="http://www.soilfoodweb.com/">Elaine Ingham</a>
+
   http://en.permaculturescience.org/english-pages/3-earth-care/soil/d-pioneers/elaine-ingham#TOC-Beneficial-Fungi-found-in-Compost
 
 Data Scaping
+
   https://data.cityofnewyork.us/Environment/Food-Scrap-Drop-Off-Sites/rmmq-46n5
+
   https://scraperwiki.com/docs/developer/
 
 Temperature sensor
+
   Arduino schematic prototype https://blog.safaribooksonline.com/2013/07/25/an-arduino-powered-bbq-thermometer/
+
   Tessel node setup http://start.tessel.io/install
