@@ -1,3 +1,5 @@
+// based on https://blog.safaribooksonline.com/2013/07/25/an-arduino-powered-bbq-thermometer/
+
 var j5 = require("johnny-five");
 var board = new j5.Board();
 
@@ -10,7 +12,11 @@ board.on("ready", function(){
 
   // do stuff w/ the temperature, here
 
-  var alertTemperatureF = 135;
+  // Compost temp alert range
+  //var alertTemperatureF = 135;
+
+  //debug temp alert
+  var alertTemperatureF = 90;
   var currentTemp;
  
   thm.on("change",  function(err, thmVoltage){
