@@ -1,7 +1,10 @@
 NYCompost
 =========
 
-New York City expects to extend the voluntary pilot household composting program to the entire city by 2016. It will be critical to provide accurate and up-to-date information on the location and collection points of organic waste. Even more important will be the development of the tools and methods to monitor the health of organic compost.
+New York City expects to extend the voluntary pilot household composting program to the entire city by 2016. It will be critical to provide accurate and up-to-date information on the location and collection points of organic waste. 
+
+<!--
+Even more important will be the development of the tools and methods to monitor the health of organic compost.
 
 *Phase 1*
 
@@ -13,9 +16,16 @@ Development links:
 
 Compost
 
-  <a href="http://www.soilfoodweb.com/">Dr. Elaine Ingham</a>
+  a href="http://www.soilfoodweb.com/">Dr. Elaine Ingham</a>
 
-  http://en.permaculturescience.org/english-pages/3-earth-care/soil/d-pioneers/elaine-ingham#TOC-Beneficial-Fungi-found-in-Compost
+  http://en.permaculturescience.org/english-pages/3-earth-care/soil/d-pioneers/elaine-ingham#TOC-Beneficial-Fungi-found-in-Compost 
+
+Temperature sensor
+
+  Arduino schematic prototype https://blog.safaribooksonline.com/2013/07/25/an-arduino-powered-bbq-thermometer/
+
+  Tessel node setup http://start.tessel.io/install
+-->
 
 Data & Scaping
   
@@ -30,9 +40,3 @@ Data & Scaping
   ScraperWiki
 
   https://scraperwiki.com/docs/developer/
-
-Temperature sensor
-
-  Arduino schematic prototype https://blog.safaribooksonline.com/2013/07/25/an-arduino-powered-bbq-thermometer/
-
-  Tessel node setup http://start.tessel.io/install
