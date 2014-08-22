@@ -40,3 +40,7 @@ Data & Scaping
   ScraperWiki
 
   https://scraperwiki.com/docs/developer/
+
+Resources
+
+  CBC (Citizens Budget Commission) audit http://www.cbcny.org/sites/default/files/REPORT_GarbageFacts_05222014.pdf
