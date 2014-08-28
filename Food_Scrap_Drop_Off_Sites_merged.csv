@@ -1,4 +1,4 @@
-Borough,Name,Location,Lat,Lon,CityMap Location,Materials Accepted:,Days,Hours,Months of Operation,Requirements,Organizer,Composted By,Website,Site Type,Container Type,NYC Compost,NYC Compost href
+borough,name,gx_location,lat,lon,citymap_location,materials_accepted,days,hours,months_of_operation,Requirements,organizer,composted_by,website,site_type,container_type,nyc_compost,nyc_compost.href
 BK,100 Quincy Community Garden,"100 Quincy Street, 11238",,,"http://maps.nyc.gov/doitt/nycitymap/?z=7&p=996697,188745&c=GISBasic&s=a:100,QUINCY+STREET,BROOKLYN","leaves, garden trimmings, food scraps",,,,,,,https://www.facebook.com/100Quincy?ref=stream,Community Garden,enclosed bin,no,
 BK,3 Stars Garden,"51 Edwards Street, 11205",,,,"leaves, garden trimmings, food scraps",,,,,,,,NYC Schools (K-12),2 or 3 bin,no,
 BK,462 Halsey Community Garden,"462 Halsey Street, Brooklyn, NY 11223
