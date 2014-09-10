@@ -3,8 +3,27 @@
 <head>
 <title>NYCompost</title>
 
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<link rel="shortcut icon" href="http://cartodb.com/assets/favicon.ico" />
+
+
 <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/themes/css/cartodb.css" />
-	
+
+<style>
+      html, body, #map {
+        height: 100%;
+        padding: 0;
+        margin: 0;
+      }
+      /*.container {
+      	position: relative!important;
+      }
+      #map {
+      	position: none!important;
+      }*/
+</style>
+
 </head>
 
 <body>
@@ -20,32 +39,50 @@
 
 <div id="map"></div>
 
-<script src="http://libs.cartocdn.com/cartodb.js/v3/cartodb.js"></script>
-<script>
-// get the viz.json url from the CartoDB Editor
-// - click on visualize
-// - create new visualization
-// - make visualization public
-// - click on publish
-// - go to API tab
+<!-- include cartodb.js library -->
+    <script src="http://libs.cartocdn.com/cartodb.js/v3/cartodb.js"></script>
 
-window.onload = function() {
-  cartodb.createVis('map', 'http://mashcode.cartodb.com/api/v2/viz/0f663176-390a-11e4-93f5-0e10bcd91c2b/viz.json');
-}
-</script>
+    <script>
+      function main() {
+        cartodb.createVis('map', 'http://mashcode.cartodb.com/api/v2/viz/0f663176-390a-11e4-93f5-0e10bcd91c2b/viz.json', {
+            shareable: true,
+            title: false,
+            description: false,
+            search: true,
+            tiles_loader: true,
+            center_lat: 40.683169,
+            center_lon: -73.935697,
+            zoom: 10
+        })
+        .done(function(vis, layers) {
+          // layer 0 is the base layer, layer 1 is cartodb layer
+          // setInteraction is disabled by default
+          layers[1].setInteraction(true);
+          layers[1].on('featureOver', function(e, pos, latlng, data) {
+            cartodb.log.log(e, pos, latlng, data);
+          });
+
+          // you can get the native map to work with it
+          // depending if you use google maps or leaflet
+          map = vis.getNativeMap();
+
+          // now, perform any operations you need
+          // map.setZoom(3)
+          // map.setCenter(new google.maps.Latlng(...))
+        })
+        .error(function(err) {
+          console.log(err);
+        });
+      }
+
+      window.onload = main;
+    </script>
 
 <h3>Compost Collection Site Data</h3>
 <ul>
 	<li><a href="https://github.com/mashcode/NYCompost/blob/gh-pages/Food_Scrap_Drop_Off_Sites_merged.csv">Compost Collection Sites</a> (csv)</li>
 	<li><a href="https://github.com/mashcode/NYCompost/blob/gh-pages/Food_Scrap_Drop_Off_Sites_merged.geojson">Compost Collection Sites</a> (geojason)</li>
 </ul>
-
-<!--h2>NYCompost Sites</h2>
-<ul>
-	<li><a href="compost_bklyn-1.html">Brooklyn</a></li>
-	<li><a href="compost_manha-1.html">Manhattan</a></li>
-	<li><a href="compost_queen-1.html">Queens</a></li>
-</ul-->
 
 </div>
 </body>
