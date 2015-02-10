@@ -16,10 +16,11 @@ It falls on recycling, sigh, to mitigate the environmental burden of human food 
 
 In this use case technology both is and is not the answer. Food waste being a wholly user-centered experience will require a wholly user-centered intervention. We all know, as much as we try to ignore it, what we are throwing into our waste cans. YouTube mutts, while entertainingly loyal and cute table scrap diverters, as alternative digesters should *not* be scalable. The platform should be knitted around the idea of "open by design" (Bloom, Greg) and with any luck eventually disappear into the background.
 
+All designed information systems are at their root human systems and can only function through the relationships of the people within those systems. Social apps, by example, take on the structures of woven materials much like is now being observed in brain neural networks. We use patterns to flag random associations. We turn these patterns and associations into maps. What kills any great idea, besides bad timing, is a design so onerous it suffocates the ability of users to explore random options. I experience this every time I'm encouraged to log into LinkedIn and Google+. I'm sorry, I don't mean to pile on, but wtf?
 
 So the food(scraps) to compost story aka Compost Club is obviously one of science and observation, the conversion of energy through decay, but it's also a story about converting human energy, enabling and building out the interchanges within neighborhoods and learning to be accountable for everything in our waste stream. Lastly, it's about changing long ingrained habits. The tools are readily available to support collaboration, share activity and most importantly provide the channels to connect with each other. At this point we have no choice but to.
 
-Look at the center of any disruptive idea, you'll always find an activist.
+Look at the center of any disruptive idea, you'll always find an activist with questions.
 
 ## Question, questions
 
