@@ -1,7 +1,7 @@
 Urban Decay aka Compost Club
 =========
 
-###City food scrap collection & composting [map](https://mashcode.github.io/NYCompost/): message-activism-plan
+###City food scrap collection & composting [map](https://mashcode.github.io/NYCompost/): message ~ activism ~ plan
 
 Separating organic matter from household trash is the first step in changing ingrained habits of consumption. It immediately disrupts the human food linkages systemically. It brings into clearer view our other contributions to the waste stream -- namely plastic and other hybrid non-biodegradable materials.
 
@@ -16,7 +16,6 @@ It falls on recycling, sigh, to mitigate the environmental burden of human food 
 
 In this use case technology both is and is not the answer. Food waste being a wholly user-centered experience will require a wholly user-centered intervention. We all know, as much as we try to ignore it, what we are throwing into our waste cans. YouTube mutts, while entertainingly loyal and cute table scrap diverters, as alternative digesters should *not* be scalable. The platform should be knitted around the idea of "open by design" (Bloom, Greg) and with any luck eventually disappear into the background.
 
-All designed information systems are at their root human systems and can only function through the relationships of the people within those systems. Social applications, by example, take on the structure of woven materials much like brain neural networks. We use patterns to make associations. We make maps. What kills any great idea, besides bad timing, is a design so onerous it suffocates the ability of people to create relationships and community within that system. I experience this every time I'm encouraged to log into LinkedIn and Google+. I'm sorry, I don't mean to pile on, but wtf?
 
 So the food(scraps) to compost story aka Compost Club is obviously one of science and observation, the conversion of energy through decay, but it's also a story about converting human energy, enabling and building out the interchanges within neighborhoods and learning to be accountable for everything in our waste stream. Lastly, it's about changing long ingrained habits. The tools are readily available to support collaboration, share activity and most importantly provide the channels to connect with each other. At this point we have no choice but to.
 
