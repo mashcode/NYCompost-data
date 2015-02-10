@@ -1,7 +1,7 @@
 Urban Decay aka Compost Club
 =========
 
-City food scrap collection & compost sites. Map, monitor & message. Activism. Disruption.
+City food scrap collection & composting map. Message. Activism. Plan.
 
 Separating organic matter from household trash is the first step in changing ingrained habits of what we eat and what we buy. It immediately changes the food chain, system wide by bringing into clearer view our other contributions to the waste stream -- namely plastic and mixed technical and organic materials.
 
