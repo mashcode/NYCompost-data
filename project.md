@@ -1,4 +1,4 @@
 Urban Decay -- Project
 =========
 
-Collect data to model neighborhood based organic waste diversion and recycling programs with metadata supplied by the users
+Collect data to model neighborhood based waste diversion and recycling programs with user supplied Discourse metadata

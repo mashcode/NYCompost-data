@@ -3,8 +3,7 @@ NYCompost
 
 ###City food scrap collection & composting [map](https://mashcode.github.io/NYCompost/)
 
-Collect data to model neighborhood based organic waste diversion and recycling programs with metadata supplied by the users
-
+Collect data to model neighborhood based waste diversion and recycling programs with user supplied Discourse metadata
 <!--
 
 Separating organic matter from household trash is the first step in changing ingrained habits of consumption. It immediately disrupts the human food linkages systemically. It brings into clearer view our other contributions to the waste stream &emdash; namely plastic and other hybrid non-biodegradable materials.
@@ -37,11 +36,11 @@ Look at the center of any disruptive idea, you'll always find an activist with q
 * Surveys and polls
 
 ## Rules of Compost Club
-* Rule 1 process what you preach 
-* Rule 2 process what you preach close to where you preach
-* Rule 3 relationships ~ trust
-* Rule 4 for {measure ~ data ~ truth} ####The Welty Matrix
-* Rule 5 else Rule 1
+* Rule 1 keep it close 
+* Rule 2 keep it close
+* Rule 3 relationships = trust
+* Rule 4 {measure ~ data ~ truth} #### The Welty Matrix
+* Rule 5 else Rule 4
 
 ## Some Assumptions
 
