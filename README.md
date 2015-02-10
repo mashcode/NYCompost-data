@@ -1,7 +1,7 @@
 Urban Decay aka Compost Club
 =========
 
-###City food scrap collection & composting [map](https://mashcode.github.io/NYCompost/): message, activism, plan.
+###City food scrap collection & composting [map](https://mashcode.github.io/NYCompost/): message-activism-plan
 
 Separating organic matter from household trash is the first step in changing ingrained habits of consumption. It immediately disrupts the human food linkages systemically. It brings into clearer view our other contributions to the waste stream -- namely plastic and other hybrid non-biodegradable materials.
 
