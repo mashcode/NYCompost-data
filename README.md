@@ -63,6 +63,8 @@ Look at the center of any disruptive idea, you'll always find an activist core.
 
 ## Resources
 
+**Books**
+
 Cradle to Cradle: Remaking the way we make things, 2002. Michael Braungart and William McDonough.
 
 "WITH AND OF AND BY AND FOR" by Greg Bloom https://civicquarterly.com/article/with-and-of-and-by-and-for/
@@ -91,8 +93,9 @@ Temperature sensor
   Tessel node setup http://start.tessel.io/install
 -->
 
-Data & Scaping
-  
+**Data & Scaping**
+
+
   NYCOpendata: https://data.cityofnewyork.us/Environment/Food-Scrap-Drop-Off-Sites/rmmq-46n5
   
   https://data.cityofnewyork.us/City-Government/DSNY-Monthly-Tonnage-Data/ebb7-mvp5
