@@ -3,7 +3,7 @@ Urban Decay aka Compost Club
 
 City food scrap collection & composting [map](https://mashcode.github.io/NYCompost/). Message. Activism. Plan.
 
-Separating organic matter from household trash is the first step in changing ingrained habits of what we eat and what we buy. It immediately disrupts the human food linkages system wide. It brings into clearer view our other contributions to the waste stream -- namely plastic and other hybrid non-biodegradable materials.
+Separating organic matter from household trash is the first step in changing ingrained habits of consumption. It immediately disrupts the human food linkages systemically. It brings into clearer view our other contributions to the waste stream -- namely plastic and other hybrid non-biodegradable materials.
 
 
 Cities are moving to mandatory organic waste diversion and composting programs. It will be critical to provide accurate and near real-time information on the location and collection points of organic waste. Missing is the data to inform  and track participation in waste diversion programs and onsite composting. Harnessing the human energy will be essential to the projects success.
