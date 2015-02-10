@@ -93,20 +93,14 @@ Temperature sensor
 
 Data & Scaping
   
-  Socrata (NYCOpendata)
-
-  https://data.cityofnewyork.us/Environment/Food-Scrap-Drop-Off-Sites/rmmq-46n5
-
+  NYCOpendata: https://data.cityofnewyork.us/Environment/Food-Scrap-Drop-Off-Sites/rmmq-46n5
+  
   https://data.cityofnewyork.us/City-Government/DSNY-Monthly-Tonnage-Data/ebb7-mvp5
 
-  LORP
+  NYCComposting Project http://www1.nyc.gov/site/dsny/resources/initiatives/nyc-compost-project.page
 
-  http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-
-  ScraperWiki
-
-  https://scraperwiki.com/docs/developer/
-
-Resources
+  ScraperWiki https://scraperwiki.com/docs/developer/
+  
+  Kimono Labs
 
   CBC (Citizens Budget Commission) audit http://www.cbcny.org/sites/default/files/REPORT_GarbageFacts_05222014.pdf
