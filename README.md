@@ -1,10 +1,13 @@
-Urban Decay aka Compost Club
+NYCompost
 =========
 
-###City food scrap collection & composting [map](https://mashcode.github.io/NYCompost/): message ~ activism ~ plan
+###City food scrap collection & composting [map](https://mashcode.github.io/NYCompost/)
 
-Separating organic matter from household trash is the first step in changing ingrained habits of consumption. It immediately disrupts the human food linkages systemically. It brings into clearer view our other contributions to the waste stream -- namely plastic and other hybrid non-biodegradable materials.
+Collect data to model neighborhood based organic waste diversion and recycling programs with metadata supplied by the users
 
+<!--
+
+Separating organic matter from household trash is the first step in changing ingrained habits of consumption. It immediately disrupts the human food linkages systemically. It brings into clearer view our other contributions to the waste stream &emdash; namely plastic and other hybrid non-biodegradable materials.
 
 Cities are moving to mandatory organic waste diversion and composting programs. It will be critical to provide accurate and near real-time information on the location and collection points of organic waste. Missing is the data to inform  and track participation in waste diversion programs and onsite composting. Harnessing the human energy will be essential to the projects success.
 
@@ -19,7 +22,7 @@ In this use case technology both is and is not the answer. Food waste being a wh
 All designed information systems are at their root human systems and can only function through the relationships of the people within those systems. Social apps, by example, take on the structures of woven materials much like is now being observed in brain neural networks. We use patterns to flag random associations. We turn these patterns and associations into maps. What kills any great idea, besides bad timing, is a design so onerous it suffocates the ability of users to explore random options. I experience this every time I'm encouraged to log into LinkedIn and Google+. I'm sorry, I don't mean to pile on, but wtf?
 
 So the food(scraps) to compost story aka Compost Club is obviously one of science and observation, the conversion of energy through decay, but it's also a story about converting human energy, enabling and building out the interchanges within neighborhoods and learning to be accountable for everything in our waste stream. Lastly, it's about changing long ingrained habits. The tools are readily available to support collaboration, share activity and most importantly provide the channels to connect with each other. At this point we have no choice but to.
-
+-->
 Look at the center of any disruptive idea, you'll always find an activist with questions.
 
 ## Question, questions
