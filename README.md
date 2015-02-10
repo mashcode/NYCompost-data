@@ -43,12 +43,13 @@ Look at the center of any disruptive idea, you'll always find an activist.
 ## Some Assumptions
 
 * My planet will have soil, air and water free of man-made chemical pollutants.
-* Reduce ~ Reuse ~ Recycle must be replaced with Waste-free
+* Reduce ~ Reuse ~ Recycle loop bad. Waste ~ Decay loop good. 
 * Planned obsolescence must die!
-* Global climate changes profound impact on water resources is a visible threat that crosses all geographic zones.
-* Cities are food scrap machines. Using economies of scale can facilitate a  consistent & reliable product. Doh.
-* Adding composted organic matter will innoculate, improve water retention and provide plant nutrients.
-* Soils rich in beneficial organisms become a carbon sponge.
+* Global climate changes profound impact on water resources is the visible threat that crosses all geographic zones.
+* Cities are food scrap machines. Doh.
+* Using economies of scale can facilitate a consistent & reliable product.
+* Adding composted organic matter innoculates, improves water retention and provides plant nutrients.
+* Soils rich in beneficial organisms become carbon sponges.
 * Compost is a natural "nearly free" resource unlike water.
 
 ## Possible Outcomes
@@ -60,7 +61,7 @@ Look at the center of any disruptive idea, you'll always find an activist.
 * Maps, maps, maps
 * Viz, viz, visualization
 * Embedded chat/messaging
-* A complex system doesn't mean we can't have fun
+* Fun
 
 ## Resources
 
