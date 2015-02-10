@@ -10,7 +10,7 @@ Cities are moving to mandatory organic waste diversion and composting programs. 
 
 # The best laid plans...rely on technology
 
-One could argue we are at a place in time where the science is in yet the existing methods to put that science to good effect are lagging. Global warming is here but are we?
+One could argue we are at a place in time where the science is in yet the existing methods to put that science to good effect are lagging. Climate change is here but are we?
 
 It falls on recycling, sigh, to mitigate the environmental burden of human food waste and it's mixed bag of technical and biological product. Conservation efforts inch along. Many of us, in our heart of hearts, believe in recycling and conservation yet our inner autonomous consumer is conflicted at the expense of rational thought. Cheese curls. Just sayin'. Many of the many actively participate while overlooking the considerable energy spent creating and distributing the stuff we end up separating and disposing. A cities food has often traveled thousands of kilometers before ending up rotting in refrigeration. Carbon +1. The verticality and population density of urban zones pose unique sets of conditions that need to be addressed.
 
