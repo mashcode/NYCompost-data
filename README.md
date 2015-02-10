@@ -8,7 +8,7 @@ Separating organic matter from household trash is the first step in changing ing
 
 Cities are moving to mandatory organic waste diversion and composting programs. It will be critical to provide accurate and near real-time information on the location and collection points of organic waste. Missing is the data to inform  and track participation in waste diversion programs and onsite composting. Harnessing the human energy will be essential to the projects success.
 
-# The best laid plans...rely on technology
+## The best laid plans...rely on technology
 
 One could argue we are at a place in time where the science is in yet the existing methods to put that science to good effect are lagging. Climate change is here but are we?
 
