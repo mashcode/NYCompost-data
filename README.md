@@ -31,7 +31,9 @@ Look at the center of any disruptive idea, you'll always find an activist with q
 
 ## Question, questions
 
-* What is food(scrap) diversion participation over time? Is there even data to even measure this? If not, can it be inferred by other means?
+* Can we measure participation over time? Is there even data to even measure this? If not, can it be inferred by other means?
+
+* How does metadata inform participation?
 
 ## Inputs
 
@@ -103,19 +105,21 @@ Temperature sensor
   Tessel node setup http://start.tessel.io/install
 -->
 
-**Data & Scaping**
 
-  Opendata: 
+**Opendata** 
+
   * https://data.cityofnewyork.us/Environment/Food-Scrap-Drop-Off-Sites/rmmq-46n5
   
   * https://data.cityofnewyork.us/City-Government/DSNY-Monthly-Tonnage-Data/ebb7-mvp5
 
-  Scraping tools: 
+**Scraping tools**
+
   * [ScraperWiki] (https://scraperwiki.com/docs/developer/)
   
   * [Kimono Labs] (https://www.kimonolabs.com/)
 
-  Reports:
+**Reports**
+
   * [CBC (Citizens Budget Commission) audit] (http://www.cbcny.org/sites/default/files/REPORT_GarbageFacts_05222014.pdf)
 
   * [NYCComposting Project] (http://www1.nyc.gov/site/dsny/resources/initiatives/nyc-compost-project.page)
