@@ -105,15 +105,16 @@ Temperature sensor
 
 **Data & Scaping**
 
+  NYCOpendata: 
 
-  NYCOpendata: https://data.cityofnewyork.us/Environment/Food-Scrap-Drop-Off-Sites/rmmq-46n5
+  * https://data.cityofnewyork.us/Environment/Food-Scrap-Drop-Off-Sites/rmmq-46n5
   
-  https://data.cityofnewyork.us/City-Government/DSNY-Monthly-Tonnage-Data/ebb7-mvp5
+  * https://data.cityofnewyork.us/City-Government/DSNY-Monthly-Tonnage-Data/ebb7-mvp5
 
-  NYCComposting Project http://www1.nyc.gov/site/dsny/resources/initiatives/nyc-compost-project.page
+  [NYCComposting Project] (http://www1.nyc.gov/site/dsny/resources/initiatives/nyc-compost-project.page)
 
-  ScraperWiki https://scraperwiki.com/docs/developer/
+  [ScraperWiki] (https://scraperwiki.com/docs/developer/)
   
-  Kimono Labs
+  [Kimono Labs] (https://www.kimonolabs.com/)
 
-  CBC (Citizens Budget Commission) audit http://www.cbcny.org/sites/default/files/REPORT_GarbageFacts_05222014.pdf
+  [CBC (Citizens Budget Commission) audit] (http://www.cbcny.org/sites/default/files/REPORT_GarbageFacts_05222014.pdf)
