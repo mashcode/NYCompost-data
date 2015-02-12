@@ -9,7 +9,7 @@ Model and network neighborhood based waste diversion and recycling programs usin
 
  Urban food scrap collection & compost #relyoneachother
 
-Separating organic matter from household trash is the first step in changing ingrained habits of consumption. It immediately disrupts the human food linkages systemically. It brings into clearer view our other contributions to the waste stream -- namely plastic and other hybrid non-biodegradable materials.
+Separating organic matter from household trash is the first step in changing ingrained habits of consumption. It immediately disrupts the human food linkages systemically. It brings into clearer view our other contributions to the waste stream &emdash; namely plastic and other hybrid non-biodegradable materials.
 
 Cities are moving to mandatory organic waste diversion and composting programs. It will be critical to provide accurate and near real-time information on the location and collection points of organic waste. Missing is the data to inform  and track participation in waste diversion programs and onsite composting. Harnessing the human energy will be essential to the projects success.
 
@@ -105,16 +105,18 @@ Temperature sensor
 
 **Data & Scaping**
 
-  NYCOpendata: 
-
+  Opendata: 
   * https://data.cityofnewyork.us/Environment/Food-Scrap-Drop-Off-Sites/rmmq-46n5
   
   * https://data.cityofnewyork.us/City-Government/DSNY-Monthly-Tonnage-Data/ebb7-mvp5
 
-  [NYCComposting Project] (http://www1.nyc.gov/site/dsny/resources/initiatives/nyc-compost-project.page)
-
-  [ScraperWiki] (https://scraperwiki.com/docs/developer/)
+  Scraping tools: 
+  * [ScraperWiki] (https://scraperwiki.com/docs/developer/)
   
-  [Kimono Labs] (https://www.kimonolabs.com/)
+  * [Kimono Labs] (https://www.kimonolabs.com/)
 
-  [CBC (Citizens Budget Commission) audit] (http://www.cbcny.org/sites/default/files/REPORT_GarbageFacts_05222014.pdf)
+  Reports:
+  * [CBC (Citizens Budget Commission) audit] (http://www.cbcny.org/sites/default/files/REPORT_GarbageFacts_05222014.pdf)
+
+  * [NYCComposting Project] (http://www1.nyc.gov/site/dsny/resources/initiatives/nyc-compost-project.page)
+
