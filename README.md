@@ -31,7 +31,7 @@ Look at the center of any disruptive idea, you'll always find an activist with q
 
 ## Question, questions
 
-* Can we measure participation over time? Is there even data to even measure this? If not, can it be inferred by other means?
+* Can we visualize participation over time? Is there even data to measure this? If not, can it be inferred by other means?
 
 * How does metadata inform participation?
 
@@ -43,8 +43,8 @@ Look at the center of any disruptive idea, you'll always find an activist with q
 * Surveys and polls
 
 ## Rules of Compost Club
-* Rule 1 keep it close 
-* Rule 2 keep it close
+* Rule 1 keep it close to home
+* Rule 2 keep it close to home
 * Rule 3 relationships = trust
 * Rule 4 {measure ~ data ~ truth} #### The Welty Matrix
 * Rule 5 else Rule 4
@@ -105,7 +105,6 @@ Temperature sensor
   Tessel node setup http://start.tessel.io/install
 -->
 
-
 **Opendata** 
 
   * https://data.cityofnewyork.us/Environment/Food-Scrap-Drop-Off-Sites/rmmq-46n5
@@ -123,4 +122,3 @@ Temperature sensor
   * [CBC (Citizens Budget Commission) audit] (http://www.cbcny.org/sites/default/files/REPORT_GarbageFacts_05222014.pdf)
 
   * [NYCComposting Project] (http://www1.nyc.gov/site/dsny/resources/initiatives/nyc-compost-project.page)
-
