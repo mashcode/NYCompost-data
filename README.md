@@ -86,21 +86,18 @@ _Cradle to Cradle: Remaking the way we make things,_ 2002. Michael Braungart and
 
 "WITH AND OF AND BY AND FOR" by Greg Bloom https://civicquarterly.com/article/with-and-of-and-by-and-for/
 
-<!--
-
--->
-
 **Opendata** 
 
   * https://data.cityofnewyork.us/Environment/Food-Scrap-Drop-Off-Sites/rmmq-46n5
   
   * https://data.cityofnewyork.us/City-Government/DSNY-Monthly-Tonnage-Data/ebb7-mvp5
 
-**Scraping tools**
+**Web Scraping & Mapping tools**
 
-  * [ScraperWiki] (https://scraperwiki.com/docs/developer/)
-  
   * [Kimono Labs] (https://www.kimonolabs.com/)
+  * [Tabula PDF](http://tabula.technology/)
+  * [QGIS Community](http://www2.qgis.org/en/site/getinvolved/index.html)
+  * [ScraperWiki] (https://scraperwiki.com/docs/developer/)
 
 **Reports**
 
