@@ -89,7 +89,6 @@ _Cradle to Cradle: Remaking the way we make things,_ 2002. Michael Braungart and
 **Opendata** 
 
   * https://data.cityofnewyork.us/Environment/Food-Scrap-Drop-Off-Sites/rmmq-46n5
-  
   * https://data.cityofnewyork.us/City-Government/DSNY-Monthly-Tonnage-Data/ebb7-mvp5
 
 **Web Scraping & Mapping tools**
@@ -103,6 +102,5 @@ _Cradle to Cradle: Remaking the way we make things,_ 2002. Michael Braungart and
 **Reports**
 
   * [CBC (Citizens Budget Commission) audit] (http://www.cbcny.org/sites/default/files/REPORT_GarbageFacts_05222014.pdf)
-
-  * [NYCComposting Project] (http://www1.nyc.gov/site/dsny/resources/initiatives/nyc-compost-project.page)
-  - [DSNY Community Composting Report](http://www1.nyc.gov/assets/dsny/downloads/pdf/studies-and-reports/2014-community-composting-report-LL77.pdf)
+  * [NYC Composting Project] (http://www1.nyc.gov/site/dsny/resources/initiatives/nyc-compost-project.page)
+    - [DSNY Community Composting Report](http://www1.nyc.gov/assets/dsny/downloads/pdf/studies-and-reports/2014-community-composting-report-LL77.pdf)
