@@ -96,11 +96,13 @@ _Cradle to Cradle: Remaking the way we make things,_ 2002. Michael Braungart and
 
   * [Kimono Labs] (https://www.kimonolabs.com/)
   * [Tabula PDF](http://tabula.technology/)
-  * [QGIS Community](http://www2.qgis.org/en/site/getinvolved/index.html)
   * [ScraperWiki] (https://scraperwiki.com/docs/developer/)
+  * [QGIS Community](http://www2.qgis.org/en/site/getinvolved/index.html)
+  * [Cartodb]()
 
 **Reports**
 
   * [CBC (Citizens Budget Commission) audit] (http://www.cbcny.org/sites/default/files/REPORT_GarbageFacts_05222014.pdf)
 
   * [NYCComposting Project] (http://www1.nyc.gov/site/dsny/resources/initiatives/nyc-compost-project.page)
+  - [DSNY Community Composting Report](http://www1.nyc.gov/assets/dsny/downloads/pdf/studies-and-reports/2014-community-composting-report-LL77.pdf)
