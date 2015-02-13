@@ -5,8 +5,6 @@ NYCompost
 
 Model and network neighborhood food scrap diversion using crowd-sourced metadata
 
-[Comment on Kickstarter =>](https://www.kickstarter.com/projects/968545879/107477158?token=d5142f89)
-
 <!-- ![Comment](https://cdn1.iconfinder.com/data/icons/streamline-comments-chat/60/cell-10-10-480.png "Kickstarter Comment")
 -->
 
@@ -33,6 +31,8 @@ Look at the center of any disruptive idea, you'll always find an activist with q
 For more bullet points & resources =>
 -->
 Look at the center of any disruptive idea, you'll always find an activist with questions.
+
+[Comment on Kickstarter =>](https://www.kickstarter.com/projects/968545879/107477158?token=d5142f89)
 
 ## Question, questions
 
