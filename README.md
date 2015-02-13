@@ -5,8 +5,10 @@ NYCompost
 
 Model and network neighborhood food scrap diversion using crowd-sourced metadata
 
-[Comment on Kickstarter]
-![Comment](https://cdn1.iconfinder.com/data/icons/streamline-comments-chat/60/cell-10-10-480.png "Kickstarter Comment")(https://www.kickstarter.com/projects/968545879/107477158?token=d5142f89)
+[Comment on Kickstarter](https://www.kickstarter.com/projects/968545879/107477158?token=d5142f89)
+
+<!-- ![Comment](https://cdn1.iconfinder.com/data/icons/streamline-comments-chat/60/cell-10-10-480.png "Kickstarter Comment")
+-->
 
 <!--
 
