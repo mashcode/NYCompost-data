@@ -3,11 +3,14 @@ NYCompost
 
 ###City food scrap collection & composting [map](https://mashcode.github.io/NYCompost/)
 
-Model and network neighborhood based waste diversion and recycling programs using crowd-sourced metadata
+Model and network neighborhood food scrap diversion using crowd-sourced metadata
+
+[Comment on Kickstarter]
+![Comment](https://cdn1.iconfinder.com/data/icons/streamline-comments-chat/60/cell-10-10-480.png "Kickstarter Comment")(https://www.kickstarter.com/projects/968545879/107477158?token=d5142f89)
 
 <!--
 
- Urban food scrap collection & compost #relyoneachother
+Urban food scrap collection & compost #relyoneachother
 
 Separating organic matter from household trash is the first step in changing ingrained habits of consumption. It immediately disrupts the human food linkages systemically. It brings into clearer view our other contributions to the waste stream &emdash; namely plastic and other hybrid non-biodegradable materials.
 
@@ -64,45 +67,25 @@ Look at the center of any disruptive idea, you'll always find an activist with q
 ## Possible Outcomes
 
 * Creative ideation
-* Field data collection
+* Field data collection 
 * Metadata, datasets & APIs
 * Explore sensors
 * GCFS (General Compost Standard;)
 * Maps, maps, maps
 * Viz, viz, visualization
-* Embed a Discourse platform
+* Embed the Discourse platform
 * Fun
 
 ## Resources
 
-**Books**
+**Books** 
 
 _Cradle to Cradle: Remaking the way we make things,_ 2002. Michael Braungart and William McDonough.
 
 "WITH AND OF AND BY AND FOR" by Greg Bloom https://civicquarterly.com/article/with-and-of-and-by-and-for/
 
 <!--
-Even more important will be the development of the tools and methods to monitor the health of organic compost.
 
-*Phase 1*
-
-The first step in this project is to map the compost collection and drop-off locations within the city. 
-
-In parallel, we intend to prototype an inexpensive and portable temperature sensor to monitor the health of compost piles by transmitting data in real-time to a cloud database and using a simple publish/subscribe pattern like Yo, alert waste managers to temperature extremes, providing a link to the appropriate remediation information.
-
-Development links:
-
-Compost
-
-  a href="http://www.soilfoodweb.com/">Dr. Elaine Ingham</a>
-
-  http://en.permaculturescience.org/english-pages/3-earth-care/soil/d-pioneers/elaine-ingham#TOC-Beneficial-Fungi-found-in-Compost 
-
-Temperature sensor
-
-  Arduino schematic prototype https://blog.safaribooksonline.com/2013/07/25/an-arduino-powered-bbq-thermometer/
-
-  Tessel node setup http://start.tessel.io/install
 -->
 
 **Opendata** 
